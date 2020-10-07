@@ -1,14 +1,23 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1","content":"hello","reaction":{thumbsUp: 0,
+                    hooray: 0,
+                    heart: 0,
+                    rocket: 0,
+                    eyes:0} },
+    { "id": 2, "title": "Post 2","content":"Hey","reaction":{thumbsUp: 0,
+                    hooray: 0,
+                    heart: 0,
+                    rocket: 0,
+                    eyes:0}  },
+    { "id": 3, "title": "Post 3","content":"haa","reaction":{thumbsUp: 0,
+                    hooray: 0,
+                    heart: 0,
+                    rocket: 0,
+                    eyes:0}  }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    { "id": 1, "name": "Nagesh Bandaru"},
+    { "id": 2, "name": "Ramya Cherry"}
+  ]
 }
