@@ -10,7 +10,7 @@
   ]
   ,
   "notifications": [
-    {"id": 1,"user": 1,"date": "2020-01-01","message": "Hello"},
-    { "id": 2,"user": 1,"date": "2020-02-01","message": "hey"}
+    {"id": 1,"user": 1,"date": "2020-01-01","message": "Hello","isNew": "true","read" :"false"},
+    { "id": 2,"user": 1,"date": "2020-02-01","message": "hey","isNew": "true","read" :"false"}
   ]
 }
