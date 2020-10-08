@@ -8,4 +8,9 @@
     { "id": 1, "name": "Nagesh Bandaru"},
     { "id": 2, "name": "Ramya Cherry"}
   ]
+  ,
+  "notifications": [
+    { "id": 1, "name": "Nagesh Bandaru"},
+    { "id": 2, "name": "Ramya Cherry"}
+  ]
 }
