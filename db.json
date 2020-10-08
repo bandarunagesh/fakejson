@@ -9,6 +9,9 @@
     { "id": 2, "name": "Ramya Cherry"}
   ],
   "notifications":[
-    {"user":1,"notification":["hello","hey"]},{"user":2,"notification":["hello","hey"]}
+    {"id":1,"user":1,"date":"2020-01-01","message":"Hello"},
+    {"id":2,"user":1,"date":"2020-02-01","message":"hey"}
+    {"id":3,"user":2,"date":"2020-03-01","message":"Hello"}
+    {"id":4,"user":2,"date":"2020-01-01","message":"Hello"}
   ]
 }
