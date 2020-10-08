@@ -8,7 +8,7 @@
     { "id": 1, "name": "Nagesh Bandaru"},
     { "id": 2, "name": "Ramya Cherry"}
   ],
-  notifications:[
+  "notifications":[
     {"user":1,"notification":["hello","hey"]},{"user":2,"notification":["hello","hey"]}
   ]
 }
